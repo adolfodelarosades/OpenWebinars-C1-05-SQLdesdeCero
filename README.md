@@ -17,6 +17,8 @@ El curso de SQL desde cero tiene como objetivo principal que el alumno sea capaz
 * Consultas con funciones escalares.
 * Funciones de agregado y consultas de agrupación: GROUP BY / HAVING
 
+## Contenido
+
 1. Introducción 34m
    * Presentación del profesor y curso 3:43 
    * Introducción a las bases de datos relacionales 12:36 
